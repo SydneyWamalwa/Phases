@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215375048",
+    "firebase_url": "https://phases-15af4.firebaseio.com",
+    "project_id": "phases-15af4",
+    "storage_bucket": "phases-15af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215375048:android:6194c00c4b340e592599fd",
+        "android_client_info": {
+          "package_name": "com.example.phases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215375048-uktjunjs9t8k76o12s378qrqdj4bib8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phases",
+            "certificate_hash": "921e21208b505e6539cd3c31d84cadfab2939af8"
+          }
+        },
+        {
+          "client_id": "215375048-12ede30b7cpgil12djkfv3hdp8dq9l3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nVwc3Hax0dn3ONd5x8aaPTqDZfw-jmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215375048-12ede30b7cpgil12djkfv3hdp8dq9l3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
